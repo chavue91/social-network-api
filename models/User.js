@@ -11,17 +11,21 @@ const UserSchema = new Schema({
         type: String,
         unique: true, 
         required: true,
+        // match a valid email address
         match: [/.+\@.+\..+/]
     },
+        // subdocument for thoughts 
         thoughts: [
         {
             type: Schema.Types.ObjectId,
+            // referring to the thought document model 
             ref: 'Thought'
         }
         ],
         friends: [
         {
             type: Schema.Types.ObjectId,
+            // referring to the user document model 
             ref: 'User'
         }
         ]
@@ -31,6 +35,11 @@ const UserSchema = new Schema({
         virtuals: true
     },
     id: false
+});
+
+// virtual to count friends
+UserSchema.virtual('friendCount').get(function() {
+    return this.friends.length;
 });
 
 const User = model('User', UserSchema);
