@@ -20,7 +20,9 @@
   Type npm start into your terminal to start the server, then test the routes in your application of choice.
 
   ## Preview of app final product
-  [Routes](https://drive.google.com/file/d/1aUWE0xHH8j5yvZ_gwkZ1mS65znwLM93r/view)  
+  [google drive](https://drive.google.com/file/d/1aUWE0xHH8j5yvZ_gwkZ1mS65znwLM93r/view)  
+  [screencastigy](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/cb86b9e7-f32c-45f4-9a3b-da3161f05fe3)
+  [picture](./public/assets/pictures/social-network-api.PNG)
 
   ### GitHub Profile
   [chavue91](https://github.com/chavue91/social-network-api)
