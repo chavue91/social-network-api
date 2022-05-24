@@ -21,7 +21,7 @@
 
   ## Preview of app final product
   [google drive](https://drive.google.com/file/d/1aUWE0xHH8j5yvZ_gwkZ1mS65znwLM93r/view)  
-  [screencastigy](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/cb86b9e7-f32c-45f4-9a3b-da3161f05fe3)
+  [screencastify](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/cb86b9e7-f32c-45f4-9a3b-da3161f05fe3)
   [picture](./public/assets/pictures/social-network-api.PNG)
 
   ### GitHub Profile
