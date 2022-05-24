@@ -20,7 +20,7 @@
   Type npm start into your terminal to start the server, then test the routes in your application of choice.
 
   ## Preview of app final product
-  [Routes](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/02a4e9d3-e220-439d-y377-c9478bc0e355)  
+  [Routes](https://drive.google.com/file/d/1aUWE0xHH8j5yvZ_gwkZ1mS65znwLM93r/view)  
 
   ### GitHub Profile
   [chavue91](https://github.com/chavue91/social-network-api)
